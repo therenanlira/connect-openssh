@@ -58,7 +58,3 @@ Por exemplo, para exibir o conteúdo do arquivo de configuração `vpn-config.ov
 ## Contribuindo
 
 Se você encontrar um bug ou tiver alguma sugestão para o script, fique à vontade para criar uma issue ou um pull request neste repositório. Sua contribuição é muito bem-vinda!
-
-## Licença
-
-Este repositório está licenciado sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](https://chat.openai.com/chat/LICENSE).
